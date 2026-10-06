@@ -13,13 +13,15 @@ Never edit the root `*.html` files directly; `build.py` overwrites them. Nav ite
 
 To update the CV: replace `files/OwenZidarCV.pdf` (no rebuild needed).
 
-## Publishing at owenzidar.com
+## Publishing (live since Oct 6, 2026)
 
-Upload the whole folder except `src/`, `build.py`, `_archive_princeton/`, and this README. `files/` is about 430 MB (papers, replication zips, lecture slides); the largest single file is 39 MB, so it fits GitHub Pages' 100 MB per-file limit. Free options:
-- **GitHub Pages**: push the folder to a repo, enable Pages, add a `CNAME` file containing `owenzidar.com`, then point the domain's DNS at GitHub.
-- **Netlify / Cloudflare Pages**: drag the folder into the dashboard, then add the custom domain.
+- Hosted on **GitHub Pages**: repo `github.com/omzidar/owenzidar.com` (public, branch `main`, root folder). `CNAME` file = `owenzidar.com`; HTTPS enforced.
+- Domain registered at **GoDaddy** (account 51283181, omzidar@gmail.com; paid through Apr 2, 2027, auto-renew). DNS: four A records `@` -> 185.199.108/109/110/111.153; CNAME `www` -> `omzidar.github.io`. GoDaddy forwarding to scholar.princeton.edu was removed.
+- GitHub CLI lives at `~/.local/bin/gh` (logged in as omzidar).
+- `_archive_princeton/` is git-ignored and never uploaded.
 
-Once it is live, ask Princeton IT to redirect zidar.princeton.edu to owenzidar.com.
+To publish an edit: change `src/<page>.html`, run `python3 build.py`, then
+`git add -A && git commit -m "update" && git push` (live about a minute later).
 
 ## Where things came from (Oct 6, 2026)
 
@@ -36,4 +38,5 @@ Recent decisions: blue links, title-case nav; Henrik-style home (no CV/Book butt
 
 - [ ] JEP 2024 is 38(3): 61-88 per Crossref; the CV says 1-30 and "lead article". The site uses 61-88.
 - [ ] Old press links that were dead now point to the Wayback Machine (only in the archived coverage-by-paper list).
-- [ ] Not yet published: pick a host (GitHub Pages / Netlify), point owenzidar.com at it, ask Princeton IT to redirect zidar.princeton.edu.
+- [ ] GoDaddy `www` CNAME still pointed at ghs.google.com as of Oct 6, 4:10pm; change to `omzidar.github.io` and save.
+- [ ] Ask Princeton IT to redirect zidar.princeton.edu to owenzidar.com.
