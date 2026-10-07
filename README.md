@@ -42,4 +42,3 @@ Recent decisions: blue links, title-case nav; Henrik-style home (no CV/Book butt
 - [ ] Old press links that were dead now point to the Wayback Machine (only in the archived coverage-by-paper list).
 - [ ] GoDaddy `www` CNAME still pointed at ghs.google.com as of Oct 6, 4:10pm; change to `omzidar.github.io` and save.
 - [ ] Ask Princeton IT to redirect zidar.princeton.edu (all paths, path-preserving) to owenzidar.com.
-- [ ] Google Search Console: verify owenzidar.com and submit https://owenzidar.com/sitemap.xml.
