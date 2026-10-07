@@ -20,6 +20,8 @@ To update the CV: replace `files/OwenZidarCV.pdf` (no rebuild needed).
 - GitHub CLI lives at `~/.local/bin/gh` (logged in as omzidar).
 - `_archive_princeton/` is git-ignored and never uploaded.
 
+`build.py` also writes `404.html`, `sitemap.xml`, `robots.txt`, share-preview tags (images: `assets/img/og-default.jpg`, `og-book.jpg`), and forwarding pages for old Princeton paths (`/publications`, `/bio`, `/cv`, `/classes`, `/discussions`, `/other-writing`, `/press`, ...).
+
 To publish an edit: change `src/<page>.html`, run `python3 build.py`, then
 `git add -A && git commit -m "update" && git push` (live about a minute later).
 
@@ -39,4 +41,5 @@ Recent decisions: blue links, title-case nav; Henrik-style home (no CV/Book butt
 - [ ] JEP 2024 is 38(3): 61-88 per Crossref; the CV says 1-30 and "lead article". The site uses 61-88.
 - [ ] Old press links that were dead now point to the Wayback Machine (only in the archived coverage-by-paper list).
 - [ ] GoDaddy `www` CNAME still pointed at ghs.google.com as of Oct 6, 4:10pm; change to `omzidar.github.io` and save.
-- [ ] Ask Princeton IT to redirect zidar.princeton.edu to owenzidar.com.
+- [ ] Ask Princeton IT to redirect zidar.princeton.edu (all paths, path-preserving) to owenzidar.com.
+- [ ] Google Search Console: verify owenzidar.com and submit https://owenzidar.com/sitemap.xml.
