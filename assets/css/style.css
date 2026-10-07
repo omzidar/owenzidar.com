@@ -222,3 +222,6 @@ blockquote em { font-style: normal; }
 /* Teaching: long link lists underline only on hover */
 .lectures a, .materials a { text-decoration: none; }
 .lectures a:hover, .materials a:hover { text-decoration: underline; }
+.talks .date { display: inline-block; min-width: 64px; }
+.talks .date::after { content: ""; }
+.talks li { display: grid; grid-template-columns: 70px 1fr; gap: 0 10px; }
