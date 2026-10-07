@@ -38,6 +38,8 @@ Recent decisions: blue links, title-case nav; Henrik-style home (no CV/Book butt
 
 Oct 7: added share previews, OZ favicon, 404 page, sitemap/robots, old-Princeton-path forwarding pages, bolder Featured Work charts; Bio/CV merged (headshot download = 300dpi); service roles moved to Bio; Search Console verified (URL-prefix https://owenzidar.com/, sitemap submitted).
 
+Oct 7 (later): Book page now has a 'Book talks, fall 2026' list (19 events; linked so far: Labyrinth, Princeton 9/28, CAP, SPIA DC, AEI, Duke, Dartmouth, Yale Law, Harvard Stone, MIT, Berkeley, NTA) — add links for Hyde Park Labs, HKS/Furman, Chicago ETA, Wharton, Swarthmore, UCLA, Haas as hosts post them. TV/podcasts list: CNN Smerconish, Fox Kilmeade, Bloomberg Businessweek, Odd Lots, At the Money, Wall Street Week, Marketplace, Erin Talks Money, Rational Reminder. Press page research grid leads with one top story per paper (WaPo/NYT TCJA, Economist top wealth, Bloomberg Capitalists [text card], WaPo JPE, WSJ JEP/cap gains/health/TPE). Removed: Fortier PR contact, Chartbook/No Mercy/PAW/MarketWatch/Tax Foundation cards, NBER 2015 interview, Booth Review podcast, MIT panel.
+
 ## Open items
 
 - [ ] JEP 2024 is 38(3): 61-88 per Crossref; the CV says 1-30 and "lead article". The site uses 61-88.
