@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /src/
+Sitemap: https://owenzidar.com/sitemap.xml

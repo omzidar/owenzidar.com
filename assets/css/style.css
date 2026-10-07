@@ -218,3 +218,7 @@ blockquote em { font-style: normal; }
 @media (max-width: 720px) { .book-links { grid-template-columns: 1fr; } }
 .buy-label { display: inline; margin-right: 14px; }
 .cv-link { font-weight: 600; }
+.bio-text { max-width: 760px; }
+/* Teaching: long link lists underline only on hover */
+.lectures a, .materials a { text-decoration: none; }
+.lectures a:hover, .materials a:hover { text-decoration: underline; }
