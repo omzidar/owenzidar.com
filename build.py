@@ -55,6 +55,7 @@ TEMPLATE = """<!doctype html>
 {base}<title>{title}</title>
 <meta name="description" content="{description}">
 <link rel="canonical" href="{url}">
+<meta name="google-site-verification" content="aJECxOGeNziHfho_JyKpM7fgRYQVgAt_GMGWjnVnqmk">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Owen Zidar">
 <meta property="og:title" content="{title}">
