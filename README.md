@@ -31,10 +31,12 @@ To publish an edit: change `src/<page>.html`, run `python3 build.py`, then
 - `_archive_princeton/` (not for upload) holds a full copy of the old site's pages plus files left off the new site: the old CV, the 2020-21 RA posting, and the RA task data (two CPS zips, 100 MB and 129 MB).
 - Book coverage comes from the Sept 26 Substack "Media Round Up" and the Sept 17 press email. Press-card images are the articles' own preview images, saved in `assets/img/press/`.
 
-## Status (Oct 6, 2026)
+## Status (Oct 7, 2026)
 
 Pages: Home, Bio / CV, Research, Book, Teaching, Press, Other, Contact (nav order set in `build.py`).
 Recent decisions: blue links, title-case nav; Henrik-style home (no CV/Book buttons; icons = NBER, Substack, X, LinkedIn, Email; Scholar/Wikipedia/Bluesky removed); book description = one sentence; praise trimmed to 9 short quotes; Book page coverage trimmed to a "Selected coverage" list with the NYT Oct 2 story first under News; Press page = clippings only (full coverage-by-paper list saved in `_archive_princeton/press_coverage_by_paper.html`); early working papers, Booth courses, student/RA lists, CV summary, keynotes removed.
+
+Oct 7: added share previews, OZ favicon, 404 page, sitemap/robots, old-Princeton-path forwarding pages, bolder Featured Work charts; Bio/CV merged (headshot download = 300dpi); service roles moved to Bio; Search Console verified (URL-prefix https://owenzidar.com/, sitemap submitted).
 
 ## Open items
 
