@@ -31,7 +31,7 @@ To publish an edit: change `src/<page>.html`, run `python3 build.py`, then
 
 ## Status (Oct 6, 2026)
 
-Pages: Home, Bio, CV, Research, Book, Teaching, Press, Other, Contact (nav order set in `build.py`).
+Pages: Home, Bio / CV, Research, Book, Teaching, Press, Other, Contact (nav order set in `build.py`).
 Recent decisions: blue links, title-case nav; Henrik-style home (no CV/Book buttons; icons = NBER, Substack, X, LinkedIn, Email; Scholar/Wikipedia/Bluesky removed); book description = one sentence; praise trimmed to 9 short quotes; Book page coverage trimmed to a "Selected coverage" list with the NYT Oct 2 story first under News; Press page = clippings only (full coverage-by-paper list saved in `_archive_princeton/press_coverage_by_paper.html`); early working papers, Booth courses, student/RA lists, CV summary, keynotes removed.
 
 ## Open items

@@ -217,3 +217,4 @@ blockquote em { font-style: normal; }
 .bl-title { display: block; font-size: 16px; color: var(--link); margin-top: 2px; }
 @media (max-width: 720px) { .book-links { grid-template-columns: 1fr; } }
 .buy-label { display: inline; margin-right: 14px; }
+.cv-link { font-weight: 600; }

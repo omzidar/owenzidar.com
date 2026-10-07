@@ -17,8 +17,7 @@ SRC = ROOT / "src"
 
 NAV = [
     ("index", "Home"),
-    ("bio", "Bio"),
-    ("cv", "CV"),
+    ("bio", "Bio / CV"),
     ("research", "Research"),
     ("book", "Book"),
     ("teaching", "Teaching"),
