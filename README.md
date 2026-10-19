@@ -40,6 +40,8 @@ Oct 7: added share previews, OZ favicon, 404 page, sitemap/robots, old-Princeton
 
 Oct 7 (later): Book page now has a 'Book talks, fall 2026' list (19 events; linked so far: Labyrinth, Princeton 9/28, CAP, SPIA DC, AEI, Duke, Dartmouth, Yale Law, Harvard Stone, MIT, Berkeley, NTA) — add links for Hyde Park Labs, HKS/Furman, Chicago ETA, Wharton, Swarthmore, UCLA, Haas as hosts post them. TV/podcasts list: CNN Smerconish, Fox Kilmeade, Bloomberg Businessweek, Odd Lots, At the Money, Wall Street Week, Marketplace, Erin Talks Money, Rational Reminder. Press page research grid leads with one top story per paper (WaPo/NYT TCJA, Economist top wealth, Bloomberg Capitalists [text card], WaPo JPE, WSJ JEP/cap gains/health/TPE). Removed: Fortier PR contact, Chartbook/No Mercy/PAW/MarketWatch/Tax Foundation cards, NBER 2015 interview, Booth Review podcast, MIT panel.
 
+Oct 19: added higher-profile coverage from Fortier's Oct 15 wrap report (`books/ZZ-main street millionaires/marketing/fortier/Everywhere Millionaire Final PR Report.pdf`): Book page gets an Amazon Editors' Pick / Next Big Idea line, PW, National Review, The Week, WSJ (Ensign, ~Oct 1), Atlantic Work in Progress, Barron's, Inc., Marginal Revolution, Fox One Nation, WaPo McArdle podcast; Press page gets WSJ + Atlantic text cards. Left off on purpose: Krugman's Oct 13 post (argues mega-billionaires matter more), Eric-only spots (Capitalisn't, Motley Fool, Keen On, Schwab), Yahoo Finance (who appeared is unclear), and lower-tier/syndicated items.
+
 ## Open items
 
 - [ ] JEP 2024 is 38(3): 61-88 per Crossref; the CV says 1-30 and "lead article". The site uses 61-88.
