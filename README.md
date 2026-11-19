@@ -42,6 +42,10 @@ Oct 7 (later): Book page now has a 'Book talks, fall 2026' list (19 events; link
 
 Oct 19: added higher-profile coverage from Fortier's Oct 15 wrap report (`books/ZZ-main street millionaires/marketing/fortier/Everywhere Millionaire Final PR Report.pdf`): Book page gets an Amazon Editors' Pick / Next Big Idea line, PW, National Review, The Week, WSJ (Ensign, ~Oct 1), Atlantic Work in Progress, Barron's, Inc., Marginal Revolution, Fox One Nation, WaPo McArdle podcast; Press page gets WSJ + Atlantic text cards. Left off on purpose: Krugman's Oct 13 post (argues mega-billionaires matter more), Eric-only spots (Capitalisn't, Motley Fool, Keen On, Schwab), Yahoo Finance (who appeared is unclear), and lower-tier/syndicated items.
 
+Nov 19: CV replaced with the Nov 10 version; Commentary gets the NYT Oct 29 op-ed (published headline "There's a Much Better Way to Make Rich People Pay Their Share"; the CV wording differs); Bio service list gets AER: Insights Board of Editors (start year 2026 assumed; not yet on the AEA editors page).
+
+Nov 19 (later): new Videos page (`src/videos.html`, nav after Press), titled "Selected Interviews and Talks". Interviews: Odd Lots (lead), Bloomberg TV Oct 30, CNN Smerconish, Fox One Nation, Fox 5 DC. Talks: Princeton, AEI (starts at 17:04), CAP. YouTube videos are embedded; the two Fox videos have no embeddable player, so they are still-image tiles that link out (stills in `assets/img/videos/`). YouTube embeds show "Error 153" when a page is opened as a local file; they work on the live site. Press page: added the Fortune Oct 31 Prop 13 story to the research grid.
+
 ## Open items
 
 - [ ] JEP 2024 is 38(3): 61-88 per Crossref; the CV says 1-30 and "lead article". The site uses 61-88.
