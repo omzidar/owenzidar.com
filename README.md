@@ -46,7 +46,7 @@ Nov 19: CV replaced with the Nov 10 version; Commentary gets the NYT Oct 29 op-e
 
 Nov 19 (later): new Videos page (`src/videos.html`, nav after Press), titled "Selected Interviews and Talks". Interviews: Odd Lots (lead), Bloomberg TV Oct 30, CNN Smerconish, Fox One Nation, Fox 5 DC. Talks: Princeton, AEI (starts at 17:04), CAP. YouTube videos are embedded; the two Fox videos have no embeddable player, so they are still-image tiles that link out (stills in `assets/img/videos/`). YouTube embeds show "Error 153" when a page is opened as a local file; they work on the live site. Press page: added the Fortune Oct 31 Prop 13 story to the research grid.
 
-Nov 19 (third pass): Videos page adds Bloomberg Wall Street Week and Businessweek (interviews), MIT Stone Center and a self-hosted SPIA DC clip (talks), plus an audio link to the Washington Post podcast. The SPIA clip is `files/video/spia-dc-2026.mp4` (7 MB, 73 s): Lavin clip 52, square-cropped from the vertical phone video and set on a blurred 16:9 backdrop; poster in `assets/img/videos/spia-dc.jpg`.
+Nov 19 (third pass): Videos page adds Bloomberg Wall Street Week (interviews; Businessweek was added then cut because it is audio over a waveform), MIT Stone Center and a self-hosted SPIA DC clip (talks), plus an audio link to the Washington Post podcast. The SPIA clip is `files/video/spia-dc-2026.mp4` (7 MB, 73 s): Lavin clip 52, square-cropped from the vertical phone video and set on a blurred 16:9 backdrop; poster in `assets/img/videos/spia-dc.jpg`.
 
 ## Open items
 
