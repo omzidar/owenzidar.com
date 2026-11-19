@@ -48,6 +48,8 @@ Nov 19 (later): new Videos page (`src/videos.html`, nav after Press), titled "Se
 
 Nov 19 (third pass): Videos page adds Bloomberg Wall Street Week (interviews; Businessweek was added then cut because it is audio over a waveform), MIT Stone Center and a self-hosted SPIA DC clip (talks). The SPIA clip is `files/video/spia-dc-2026.mp4` (7 MB, 73 s): Lavin clip 52, square-cropped from the vertical phone video and set on a blurred 16:9 backdrop; poster in `assets/img/videos/spia-dc.jpg`.
 
+Nov 19 (fourth pass): Videos page: added Rational Reminder #428 so Interviews is a full-width lead plus six; Talks now uses the same two-column layout (Princeton full width, then AEI, CAP, MIT, SPIA DC); closing line removed.
+
 ## Open items
 
 - [ ] JEP 2024 is 38(3): 61-88 per Crossref; the CV says 1-30 and "lead article". The site uses 61-88.
