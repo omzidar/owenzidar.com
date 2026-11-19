@@ -50,6 +50,8 @@ Nov 19 (third pass): Videos page adds Bloomberg Wall Street Week (interviews; Bu
 
 Nov 19 (fourth pass): Videos page: added Rational Reminder #428 so Interviews is a full-width lead plus six; Talks now uses the same two-column layout (Princeton full width, then AEI, CAP, MIT, SPIA DC); closing line removed.
 
+Nov 19 (fifth pass): Videos page: Rational Reminder removed; Odd Lots moved from the full-width lead to the last Interviews tile, so Interviews is six equal tiles (Bloomberg TV, CNN, Fox One Nation, Fox 5 DC, Wall Street Week, Odd Lots). A Nov 2 Good Day New York segment could not be found online.
+
 ## Open items
 
 - [ ] JEP 2024 is 38(3): 61-88 per Crossref; the CV says 1-30 and "lead article". The site uses 61-88.
