@@ -28,6 +28,7 @@ NAV = [
     ("book", "Book"),
     ("teaching", "Teaching"),
     ("press", "Press"),
+    ("videos", "Videos"),
     ("commentary", "Commentary"),
     ("contact", "Contact"),
 ]
